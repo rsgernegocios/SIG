@@ -1,0 +1,27 @@
+{
+"Numero": 135456,
+"Ctb_Id": 1,
+"Vencimento_Data": "17/04/2023",
+"Gerado_Valor": 10.00,
+"Campanha_Valor": 5.00,
+"Doacao_Valor": 15.00,
+"Baixa_Valor": 10.00
+},
+{
+"Numero": 135656,
+"Ctb_Id": 2,
+"Vencimento_Data": "16/04/2023",
+"Gerado_Valor": 20.00,
+"Campanha_Valor": 15.00,
+"Doacao_Valor": 35.00,
+"Baixa_Valor": 25.00
+},
+{
+"Numero": 146546,
+"Ctb_Id": 3,
+"Vencimento_Data": "15/04/2023",
+"Gerado_Valor": 10.45,
+"Campanha_Valor": 10.55,
+"Doacao_Valor": 21.00,
+"Baixa_Valor": 21.00
+}
