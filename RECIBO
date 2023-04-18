@@ -24,4 +24,13 @@
 "Campanha_Valor": 10.55,
 "Doacao_Valor": 21.00,
 "Baixa_Valor": 21.00
+},
+{
+"Numero": 162646,
+"Ctb_Id": 3,
+"Vencimento_Data": "20/04/2023",
+"Gerado_Valor": 10.50,
+"Campanha_Valor": 11.50,
+"Doacao_Valor": 22.00,
+"Baixa_Valor": 22.00
 }
